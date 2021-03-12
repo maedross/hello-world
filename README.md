@@ -4,8 +4,8 @@
 
 Authors: Matthew Ross, Matthew Dodson
 
-![Alt Text](https://media.giphy.com/media/XEyExB7R7LFqUI7Yx8/giphy-downsized.gif)
 Our project is to create an easy-to-use software package for users to create their own alternate reality games.
+![Alt Text](https://media.giphy.com/media/XEyExB7R7LFqUI7Yx8/giphy-downsized.gif)
 
 Currently, the program greets the user and calculates their age. One must enter a decimal number as their birth year to get correct output. "Nineteen ninety-five" would not be an acceptable response. This is what the user can expect as output:
 ```
